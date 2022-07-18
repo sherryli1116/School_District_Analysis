@@ -3,9 +3,9 @@
 A school board wanted us to help find the academic dishonesty in its current student file. In specific, the reading and math grades for Thomas High School ninth grades have been altered. The school board does not know the full extent of the academic dishonesty , and in order to uphold state testing standard, it has asked us to to replace the math and reading scores with NaNs while keeping the rest of the data intact. 
 ## Results
 ### District summary
-![This is an image]()
+![This is an image](https://github.com/sherryli1116/School_District_Analysis/blob/main/Resources/disctrict%20smmary.png)
 ### School summary
-![This is an image]()
+![This is an image](https://github.com/sherryli1116/School_District_Analysis/blob/main/Resources/school%20summary.png)
 - Thomas High School was dropped out from top 10 after we adjusted the 9th grade scores.
 - The dropping of math scores did not affect the average reading scores.
 - Scores by school spending were different at $601-650 range:
