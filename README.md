@@ -9,7 +9,7 @@ A school board wanted us to help find the academic dishonesty in its current stu
 #### School rankings were affected:
 - Thomas High School was dropped out from top 10 after we adjusted the 9th grade scores
 - Wright High School moved into the top 5 high schools in the distric
-- The dropping of math scores did not affect the average reading scores\
+- The dropping of math scores did not affect the average reading scores
 #### Removing 9th grade student scores from Thomas High School affected followings:
 - Scores by school spending were different at $601-650 range:
   - Overall passing percentage dropped from 63% to 56%.
