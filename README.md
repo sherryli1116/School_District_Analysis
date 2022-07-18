@@ -13,7 +13,7 @@ A school board wanted us to help find the academic dishonesty in its current stu
 - Scores by school size changed for medium-sized schools：
   - Percentage passing math dropped from 94% to 85%.
   - Percentage passing reading dropped from 97% to 91%.
-  -Overall passing percentage dropped from 91% to 85%.
+  - Overall passing percentage dropped from 91% to 85%.
 - Scores by schools type were affected:
   - Percentage passing math dropped from 94% to 90%.
   - Percentage passing reading dropped from 97% to 93%.
